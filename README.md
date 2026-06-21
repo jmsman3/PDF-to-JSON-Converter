@@ -10,6 +10,8 @@ Convert a PDF into structured JSON in one command.
 
 Latest release: [v1.0.0](https://github.com/jmsman3/PDF-to-JSON-Converter/releases/tag/v1.0.0)
 
+Maintained by [Md. Jubaer Mahmud Sarker](https://www.linkedin.com/in/jmsman3/) | Software Engineer.
+
 This project is a lightweight **PDF to JSON converter** built in Python. It extracts text from a PDF, converts it into markdown, and saves the result in a JSON file next to the source document.
 
 > **Start here:** clone the repo, install the dependency, place your PDF in the folder or pass the PDF path directly, then run `python extract_pdf_to_json.py`.
@@ -462,3 +464,13 @@ Please review the [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 ## Security
 
 Please review the [Security Policy](SECURITY.md) before reporting issues involving sensitive documents or private data.
+
+## Author & Contact
+
+**Md. Jubaer Mahmud Sarker**
+
+Software Engineer
+
+- LinkedIn: https://www.linkedin.com/in/jmsman3/
+- GitHub: https://github.com/jmsman3
+
