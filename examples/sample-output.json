@@ -1,0 +1,5 @@
+{
+  "source": "examples/sample-document.pdf",
+  "title": "Sample PDF Document",
+  "markdown": "# Sample PDF Document\n\nThis is a sanitized example output for demonstrating how the PDF parser converts a document into JSON.\n\n- Section 1\n- Section 2\n- Section 3\n"
+}
